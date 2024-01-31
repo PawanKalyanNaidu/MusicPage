@@ -58,6 +58,8 @@ body {
 }
 .musicdetail-bg-container {
   background-color: #03174c;
+  width:100vw;
+  padding:0.1px;
 }
 .musicdetail-main-img {
   width: 100vw;
